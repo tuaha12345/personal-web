@@ -1,0 +1,101 @@
+h1{
+	color: rgb(229, 32, 166);
+font-family: 'Roboto Flex', sans-serif;
+font-size: 30px;
+
+
+}
+h4{
+	font-weight: bold;
+	font-size: 20px;
+}
+p{
+	color: dimgray;
+}
+.first_h2{
+	
+	font-family: 'Roboto Flex', sans-serif;
+}
+body{
+	margin: 0%;
+}
+#sec3h2{
+	font-size: 30px;
+}
+.find-me{
+    
+	text-decoration: none;
+    background-color:  #F73D93;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#last_div{
+	margin-left: 30%;
+	background-color: #F73D93;
+	width: 40%;
+	height: 20%;
+	border-radius: 5px;
+}
+.half-width{
+
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+
+.third-class{
+
+	width: 20%;
+	float: left;
+	margin: 3%;
+    padding-right: 5%;
+
+}
+.third-class img{
+	width: 400px;
+	height: 300px;
+}
+
+.second{
+	
+	width: 100%;
+}
+.half-width img{
+	 width: 70%;
+    
+}
+section{
+	height: 600px;
+}
+.under_section3{
+	text-align: center;
+}
+.section_1{
+	background-image: url("images/header-bg.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	
+}
+.section_2{
+	background-image: url("images/biography-bg.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	
+}
+
+.section_3{
+	background-image: url("images/latest-work-bg.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	
+}
+.section_4{
+	background-image: url("images/footer-bg.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	text-align: center;
+}
